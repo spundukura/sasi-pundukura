@@ -1,0 +1,17 @@
+# Sasidhar Pundukura
+
+> Senior Data Engineer, Data Architect & Tech Lead with 19+ years of experience designing enterprise data platforms, modernizing legacy ecosystems, and driving cloud transformations across Banking and Financial Services.
+
+## Professional Identity
+- **Name:** Sasidhar Pundukura
+- **Primary Roles:** Senior Data Engineer, Data Architect, Technical Lead
+- **Domain Expertise:** Banking, Financial Services, Credit Risk, Fraud & AML Analytics, Regulatory Reporting
+- **Core Platforms:** Google Cloud Platform (GCP), BigQuery, Dataform, Cloud SQL, Cloud Data Fusion, Hadoop, Teradata
+- **GenAI & Agent Specializations:** Gemini Enterprise Agent Development, Gemini Enterprise Deployment, Agent Development Kit (ADK), Multi-agent Workflows, Gemini Code Assist
+
+## Verified Profiles & Links
+- **LinkedIn:** https://www.linkedin.com/in/sasi-pundukura/
+- **GitHub:** https://github.com/spundukura
+
+## Summary of Expertise
+Sasidhar Pundukura specializes in transforming complex legacy data environments into secure, governed, analytics-ready cloud architectures using GCP BigQuery and Medallion Architecture. He actively leverages modern GenAI tooling (Gemini Enterprise, Claude Code, Copilot) to accelerate development, migration, and pipeline orchestration.
